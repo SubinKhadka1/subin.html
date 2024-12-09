@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.nav {
+  background-color: aqua;
+  height: 7vh;
+  width: 100%;
+}
+
+.nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.nav ul li {
+  margin-top: 8px;
+  list-style: none;
+}
+table {
+  margin-top: 85x;
+}
